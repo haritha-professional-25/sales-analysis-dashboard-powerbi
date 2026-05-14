@@ -2,10 +2,7 @@
 # Sales Analysis Dashboard - Power BI
 
 ## Overview
-This project is a Power BI Sales Analysis Dashboard created to analyze business performance using sales data.  
-The dashboard provides insights into sales, profit, regional performance, yearly trends, and category-wise analysis.
-
-It is designed to help businesses make data-driven decisions by visualizing key metrics in an interactive and user-friendly format.
+This project is a Power BI Sales Analysis Dashboard created to analyze business performance using sales data.  The dashboard provides insights into sales, profit, regional performance, yearly trends, and category-wise analysis.It is designed to help businesses make data-driven decisions by visualizing key metrics in an interactive and user-friendly format.
 
 ---
 
