@@ -59,14 +59,4 @@ The dashboard uses sales transaction data containing:
 ## Dashboard Preview
 <img width="100%" alt="Sales Dashboard" src="image.png">
 
----
 
-## Project Structure
-
-```bash
-sales-analysis-dashboard-powerbi/
-│
-├── Sales_Analysis_Dashboard.pbix
-├── dataset.csv
-├── dashboard_preview.png
-└── README.md
