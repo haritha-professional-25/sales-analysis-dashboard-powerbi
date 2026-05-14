@@ -57,7 +57,7 @@ The dashboard uses sales transaction data containing:
 ---
 
 ## Dashboard Preview
-<img width="100%" alt="Sales Dashboard" src="dashboard_preview.png">
+<img width="100%" alt="Sales Dashboard" src="image.png">
 
 ---
 
